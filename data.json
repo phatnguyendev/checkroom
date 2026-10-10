@@ -1,0 +1,922 @@
+[
+  {
+    "hoTen": "Nguyễn Văn Hưng",
+    "donVi": "Cục Hậu Cần",
+    "phong": "HV1",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV1"
+  },
+  {
+    "hoTen": "Nguyễn Đức Minh",
+    "donVi": "Cục Cứu hộ cứu nạn",
+    "phong": "HV1",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV1"
+  },
+  {
+    "hoTen": "Nguyễn Đức Anh",
+    "donVi": "Cục BVAN QĐ",
+    "phong": "HV1",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV1"
+  },
+  {
+    "hoTen": "Lê Thủ Đô",
+    "donVi": "Lữ đoàn 74",
+    "phong": "HV1",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV1"
+  },
+  {
+    "hoTen": "Ngô Thanh Phương",
+    "donVi": "Bộ CHQS Bắc Ninh",
+    "phong": "HV1",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV1"
+  },
+  {
+    "hoTen": "Nguyễn Đức Bình",
+    "donVi": "Bộ CHQS Thái Nguyên",
+    "phong": "HV1",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV1"
+  },
+  {
+    "hoTen": "Hoàng Quốc Huy",
+    "donVi": "Bộ CHQS Lạng Sơn",
+    "phong": "HV1",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV1"
+  },
+  {
+    "hoTen": "Nguyễn Văn Trình",
+    "donVi": "Bộ CHQS Lạng Sơn",
+    "phong": "HV1",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV1"
+  },
+  {
+    "hoTen": "Trần Thanh Biên",
+    "donVi": "Trường Quân sự quân khu",
+    "phong": "HV2",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV2"
+  },
+  {
+    "hoTen": "Phạm Anh Tú",
+    "donVi": "Bộ CHQS Sơn La",
+    "phong": "HV2",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV2"
+  },
+  {
+    "hoTen": "Nguyễn Văn Mạnh",
+    "donVi": "Bộ CHQS Điện Biên",
+    "phong": "HV2",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV2"
+  },
+  {
+    "hoTen": "Lê Phúc Khánh",
+    "donVi": "Bộ CHQS Lai Châu",
+    "phong": "HV2",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV2"
+  },
+  {
+    "hoTen": "Võ Đại Dương",
+    "donVi": "Sư đoàn 316",
+    "phong": "HV2",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV2"
+  },
+  {
+    "hoTen": "Nguyễn Vũ Trung Hiếu",
+    "donVi": "e166/Sư đoàn 304",
+    "phong": "HV2",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV2"
+  },
+  {
+    "hoTen": "Nguyễn Văn Tuấn",
+    "donVi": "Ban CHQS xã Đông Ngũ, Quảng Ninh",
+    "phong": "HV2",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV2"
+  },
+  {
+    "hoTen": "Nguyễn Văn Duy",
+    "donVi": "Ban CHQS phường Liên Hòa, Quảng Ninh",
+    "phong": "HV2",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV2"
+  },
+  {
+    "hoTen": "Phạm Ngọc Thuận",
+    "donVi": "Ban CHQS phường Đông Hải, Quảng Ninh",
+    "phong": "HV3",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV3"
+  },
+  {
+    "hoTen": "Vũ Đức Trung",
+    "donVi": "Ban CHQS xã Nam An Phụ, Hải Phòng",
+    "phong": "HV3",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV3"
+  },
+  {
+    "hoTen": "Phạm Quý Ba",
+    "donVi": "Ban CHQS xã Bắc Tiên Hưng, Hưng Yên",
+    "phong": "HV3",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV3"
+  },
+  {
+    "hoTen": "Đoàn Minh Tân",
+    "donVi": "Ban CHQS xã Đông Tiên Hưng, Hưng Yên",
+    "phong": "HV3",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV3"
+  },
+  {
+    "hoTen": "Nguyễn Văn Cao",
+    "donVi": "Ban CHQS phường Hồng Quang, Ninh Bình",
+    "phong": "HV3",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV3"
+  },
+  {
+    "hoTen": "Đặng Văn Vĩnh",
+    "donVi": "Ban CHQS xã Xuân Hưng, Ninh Bình",
+    "phong": "HV3",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV3"
+  },
+  {
+    "hoTen": "Nguyễn Văn Tuân",
+    "donVi": "Bộ CHQS Thanh Hóa",
+    "phong": "HV3",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV3"
+  },
+  {
+    "hoTen": "Nguyễn Hữu Vinh",
+    "donVi": "Bộ CHQS Nghệ An",
+    "phong": "HV3",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV3"
+  },
+  {
+    "hoTen": "Trần Hoàng Sơn",
+    "donVi": "Ban CH BĐBP Gia Lai/QK5",
+    "phong": "HV3",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV3"
+  },
+  {
+    "hoTen": "Nguyễn Mạnh Hùng",
+    "donVi": "Bộ CHQS Quảng Trị",
+    "phong": "HV5",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV5"
+  },
+  {
+    "hoTen": "Phạm Gia Bảo",
+    "donVi": "Bộ CHQS TP Huế",
+    "phong": "HV5",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV5"
+  },
+  {
+    "hoTen": "Lê Phan Nhật Minh",
+    "donVi": "Bộ CHQS Đà Nẵng",
+    "phong": "HV5",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV5"
+  },
+  {
+    "hoTen": "Nguyễn Văn Tuấn",
+    "donVi": "Bộ CHQS Quảng Ngãi",
+    "phong": "HV5",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV5"
+  },
+  {
+    "hoTen": "Võ Quang Toàn",
+    "donVi": "Ban CHQS xã Ia Le",
+    "phong": "HV5",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV5"
+  },
+  {
+    "hoTen": "Nguyễn Thành Long",
+    "donVi": "Ban CHQSphường Hoài Nhơn Nam",
+    "phong": "HV5",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV5"
+  },
+  {
+    "hoTen": "Hoàng Anh Tuấn",
+    "donVi": "Bộ CHQS Đăk Lăk",
+    "phong": "HV5",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV5"
+  },
+  {
+    "hoTen": "Phạm Quang Huy",
+    "donVi": "Văn phòng BTL",
+    "phong": "HV5",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV5"
+  },
+  {
+    "hoTen": "Nguyễn Phan Thanh Sơn",
+    "donVi": "Ban Hành chính/Bộ TM",
+    "phong": "HV6",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV6"
+  },
+  {
+    "hoTen": "Nguyễn Hoàng Vũ",
+    "donVi": "Phòng KHTH/ Cục Chính trị",
+    "phong": "HV6",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV6"
+  },
+  {
+    "hoTen": "Nguyễn Hòa Giang",
+    "donVi": "Phòng TM-KT/ Cục HC-KT",
+    "phong": "HV6",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV6"
+  },
+  {
+    "hoTen": "Võ Văn Đoàn",
+    "donVi": "Ban Thông tin/BTL TP.HCM",
+    "phong": "HV6",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV6"
+  },
+  {
+    "hoTen": "Trương Hữu Phước",
+    "donVi": "cTT/e41/Bộ CHQS tỉnh Đồng Nai",
+    "phong": "HV6",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV6"
+  },
+  {
+    "hoTen": "Bùi Văn Thành",
+    "donVi": "Bộ CHQS tỉnh Tây Ninh",
+    "phong": "HV6",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV6"
+  },
+  {
+    "hoTen": "Đinh Thái Sơn",
+    "donVi": "Ban CHQS xã Đức Trọng",
+    "phong": "HV6",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV6"
+  },
+  {
+    "hoTen": "Lê Thanh Dỉ Khang",
+    "donVi": "Tiểu đoàn 1/Lữ đoàn 77",
+    "phong": "HV6",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV6"
+  },
+  {
+    "hoTen": "Dương Tuấn Sơn",
+    "donVi": "Bộ CHQS tỉnh An Giang",
+    "phong": "HV7",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV7"
+  },
+  {
+    "hoTen": "Bùi Huỳnh Đức",
+    "donVi": "Bộ CHQS tỉnh Đồng Tháp",
+    "phong": "HV7",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV7"
+  },
+  {
+    "hoTen": "Nguyễn Minh Trí",
+    "donVi": "Bộ CHQS tỉnh Vĩnh Long",
+    "phong": "HV7",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV7"
+  },
+  {
+    "hoTen": "Đồng Khánh Toàn",
+    "donVi": "Bộ CHQS TP Cần Thơ",
+    "phong": "HV7",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV7"
+  },
+  {
+    "hoTen": "Nguyễn Trường Hận",
+    "donVi": "Phân hiệu 2/Trường TSQ miền Nam",
+    "phong": "HV7",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV7"
+  },
+  {
+    "hoTen": "Nguyễn Xuân Hùng",
+    "donVi": "Trung đoàn 141, Sư đoàn 312",
+    "phong": "HV7",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV7"
+  },
+  {
+    "hoTen": "Nguyễn Ngọc Hưng",
+    "donVi": "Trung đoàn 209, Sư đoàn 312",
+    "phong": "HV7",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV7"
+  },
+  {
+    "hoTen": "Hồ Cảnh Hùng",
+    "donVi": "Lữ đoàn 368",
+    "phong": "HV7",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV7"
+  },
+  {
+    "hoTen": "Trần Văn Thắng",
+    "donVi": "Sư đoàn 31",
+    "phong": "HV8",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV8"
+  },
+  {
+    "hoTen": "Bạch Xuân Thích",
+    "donVi": "Sư đoàn 31",
+    "phong": "HV8",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV8"
+  },
+  {
+    "hoTen": "Nguyễn Thành Đạt",
+    "donVi": "Quân chủng PKKQ",
+    "phong": "HV8",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV8"
+  },
+  {
+    "hoTen": "Phạm Kiên Cường",
+    "donVi": "Quân chủng PKKQ",
+    "phong": "HV8",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV8"
+  },
+  {
+    "hoTen": "Phạm Đức Long",
+    "donVi": "CĐKN3/BTL Vùng CSB2",
+    "phong": "HV8",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV8"
+  },
+  {
+    "hoTen": "Nguyễn Thuỳ Biên",
+    "donVi": "CĐKN4/BTL Vùng CSB3",
+    "phong": "HV8",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV8"
+  },
+  {
+    "hoTen": "Đoàn Văn Hùng",
+    "donVi": "Ban CHQS xã Hồng Sơn",
+    "phong": "HV8",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV8"
+  },
+  {
+    "hoTen": "Nguyễn Huy Linh",
+    "donVi": "Ban CHQS Thuận An",
+    "phong": "HV8",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV8"
+  },
+  {
+    "hoTen": "Hà Trọng Hiến",
+    "donVi": "Ban CHQS xã Ba Vì",
+    "phong": "HV8",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV8"
+  },
+  {
+    "hoTen": "Ngô Văn Nghĩa",
+    "donVi": "Ban TT/PTM/ Sư đoàn 5",
+    "phong": "HV9",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV9"
+  },
+  {
+    "hoTen": "Nguyễn Cảnh Trang",
+    "donVi": "Ban TT/PTM/ Sư Đoàn 7",
+    "phong": "HV9",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV9"
+  },
+  {
+    "hoTen": "Nguyễn Văn Thắng",
+    "donVi": "Trường Quân sự Quân khu 7",
+    "phong": "HV9",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV9"
+  },
+  {
+    "hoTen": "Phạm Ngọc Cường",
+    "donVi": "Sư đoàn 309",
+    "phong": "HV9",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV9"
+  },
+  {
+    "hoTen": "Lê Văn Hợi",
+    "donVi": "Lữ đoàn 23",
+    "phong": "HV9",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV9"
+  },
+  {
+    "hoTen": "Nghiêm Phúc Bảo",
+    "donVi": "Lữ đoàn 25",
+    "phong": "HV9",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV9"
+  },
+  {
+    "hoTen": "Dương Hoài Bảo",
+    "donVi": "Phòng Tham mưu/Lữ đoàn 26",
+    "phong": "HV9",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV9"
+  },
+  {
+    "hoTen": "Trương Mai Quốc Cường",
+    "donVi": "Lữ đoàn 75",
+    "phong": "HV9",
+    "toaNha": "Tòa B",
+    "tang": 1,
+    "maPhong": "HV9"
+  },
+  {
+    "hoTen": "Nguyễn Thị Thu Hà",
+    "donVi": "Viện KSQS TW",
+    "phong": "602",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C602"
+  },
+  {
+    "hoTen": "Nguyễn Thị Oanh",
+    "donVi": "Nhà máy Z153",
+    "phong": "602",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C602"
+  },
+  {
+    "hoTen": "Nguyễn Thị Mỹ Linh",
+    "donVi": "Văn phòng Quân khu 7",
+    "phong": "602",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C602"
+  },
+  {
+    "hoTen": "Phạm Thị Hà",
+    "donVi": "Bộ CHQS Thanh Hóa",
+    "phong": "603",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C603"
+  },
+  {
+    "hoTen": "Nguyễn Thu Hương",
+    "donVi": "Bộ CHQS Bắc Ninh",
+    "phong": "603",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C603"
+  },
+  {
+    "hoTen": "Nguyễn Thị Hương",
+    "donVi": "Bộ CHQS tỉnh Phú Thọ",
+    "phong": "603",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C603"
+  },
+  {
+    "hoTen": "Nguyễn Thị Phương Linh",
+    "donVi": "Binh đoàn 18",
+    "phong": "603",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C603"
+  },
+  {
+    "hoTen": "Hoàng Thị Thanh Hương",
+    "donVi": "Công ty CP Tân Cảng Cái Mép",
+    "phong": "604",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C604"
+  },
+  {
+    "hoTen": "Hoàng Thị Thanh Nhiệt",
+    "donVi": "Phòng Chính trị Binh đoàn",
+    "phong": "604",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C604"
+  },
+  {
+    "hoTen": "Nguyễn Thị Việt",
+    "donVi": "Sư đoàn 302",
+    "phong": "604",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C604"
+  },
+  {
+    "hoTen": "Nguyễn Thị Hồng",
+    "donVi": "Trường CĐKTQS 1",
+    "phong": "604",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C604"
+  },
+  {
+    "hoTen": "Trương Mai Mỹ Phúc",
+    "donVi": "Bộ CHQS tỉnh Cà Mau",
+    "phong": "604",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C604"
+  },
+  {
+    "hoTen": "Lê Thị Huỳnh Như",
+    "donVi": "Văn phòng QK9",
+    "phong": "604",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C604"
+  },
+  {
+    "hoTen": "Phạm Trương Bảo An",
+    "donVi": "Văn phòng QK9",
+    "phong": "604",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C604"
+  },
+  {
+    "hoTen": "Nguyễn Thị Hằng",
+    "donVi": "Nhà máy Z176",
+    "phong": "605",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C605"
+  },
+  {
+    "hoTen": "Nguyễn Thị Tuyến",
+    "donVi": "Nhà máy Z183",
+    "phong": "605",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C605"
+  },
+  {
+    "hoTen": "Phạm Thị Khánh Linh",
+    "donVi": "Lữ đoàn 94",
+    "phong": "605",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C605"
+  },
+  {
+    "hoTen": "Nguyễn Thị Huyền",
+    "donVi": "Lữ đoàn 429",
+    "phong": "605",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C605"
+  },
+  {
+    "hoTen": "Nguyễn Hồng Thảo",
+    "donVi": "Ban CHQS Trung Giã",
+    "phong": "605",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C605"
+  },
+  {
+    "hoTen": "Nguyễn Thị Ngọc",
+    "donVi": "Công ty 91/BĐ19",
+    "phong": "605",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C605"
+  },
+  {
+    "hoTen": "Hà Thị Thư",
+    "donVi": "Binh đoàn 19",
+    "phong": "605",
+    "toaNha": "Tòa C",
+    "tang": 6,
+    "maPhong": "C605"
+  },
+  {
+    "hoTen": "Phạm Ánh Hồng",
+    "donVi": "Ban Văn thư lưu trữ",
+    "phong": "601",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A601"
+  },
+  {
+    "hoTen": "Đoàn Thị Qúy",
+    "donVi": "Văn phòng Binh đoàn",
+    "phong": "601",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A601"
+  },
+  {
+    "hoTen": "Nguyễn Thái Huệ",
+    "donVi": "Bộ CHQS Thái Nguyên",
+    "phong": "601",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A601"
+  },
+  {
+    "hoTen": "Lê Thị Dung",
+    "donVi": "Nhà máy Vi Sinh",
+    "phong": "601",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A601"
+  },
+  {
+    "hoTen": "Nguyễn Thị Nhàn",
+    "donVi": "Đoàn Kinh tế quốc phòng 716",
+    "phong": "601",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A601"
+  },
+  {
+    "hoTen": "Nguyễn Thị Kiều Anh",
+    "donVi": "Bộ CHQS NGhệ An",
+    "phong": "601",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A601"
+  },
+  {
+    "hoTen": "Nguyễn Thị Thu Hà",
+    "donVi": "Bộ CHQS Đăk Lăk",
+    "phong": "601",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A601"
+  },
+  {
+    "hoTen": "Nguyễn Thị Việt",
+    "donVi": "Sư đoàn 302",
+    "phong": "601",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A601"
+  },
+  {
+    "hoTen": "Nguyễn Thị Phương Thảo",
+    "donVi": "Bộ CHQS Hà Tĩnh",
+    "phong": "602",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A602"
+  },
+  {
+    "hoTen": "Hoàng Thị Trà My",
+    "donVi": "Bộ CHQS Quảng Trị",
+    "phong": "602",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A602"
+  },
+  {
+    "hoTen": "Đỗ Hoàng Quý Loan",
+    "donVi": "Bộ CHQS Quảng Ngãi",
+    "phong": "602",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A602"
+  },
+  {
+    "hoTen": "Triệu Thị Thúy Lan",
+    "donVi": "Bộ CHQS Cao Bằng",
+    "phong": "602",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A602"
+  },
+  {
+    "hoTen": "Ma Thị Loan",
+    "donVi": "Bộ CHQS Cao Bằng",
+    "phong": "602",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A602"
+  },
+  {
+    "hoTen": "Nguyễn Thị Hoàng Oanh",
+    "donVi": "Tổng CT Xăng dầu QĐ",
+    "phong": "602",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A602"
+  },
+  {
+    "hoTen": "Phạm Thị Phương Thúy",
+    "donVi": "Tổng CT Xăng dầu QĐ",
+    "phong": "602",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A602"
+  },
+  {
+    "hoTen": "Hoàng Thị Kim Huế",
+    "donVi": "Lữ đoàn 680/Bộ Tư lệnh Vùng 3",
+    "phong": "604",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A604"
+  },
+  {
+    "hoTen": "Nguyễn Thị Huyền",
+    "donVi": "Binh chủng Tăng Thiết giáp",
+    "phong": "604",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A604"
+  },
+  {
+    "hoTen": "Trần Thị Kim Sinh",
+    "donVi": "Ban CH BĐBP Đà Nẵng/QK5",
+    "phong": "604",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A604"
+  },
+  {
+    "hoTen": "Phùng Thị Hồng Gấm",
+    "donVi": "Trường sĩ quan Pháo Binh",
+    "phong": "604",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A604"
+  },
+  {
+    "hoTen": "Trần Phương Thảo",
+    "donVi": "Binh chủng Công binh",
+    "phong": "605",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A605"
+  },
+  {
+    "hoTen": "Nguyễn Thị Thu",
+    "donVi": "Văn phòng, Học viện Quốc phòng",
+    "phong": "605",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A605"
+  },
+  {
+    "hoTen": "Trần Thu Vân",
+    "donVi": "Ban Văn thư lưu trữ, Học viện HC",
+    "phong": "605",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A605"
+  },
+  {
+    "hoTen": "Lê Thị Thơ",
+    "donVi": "Trường SQLQ1",
+    "phong": "605",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A605"
+  },
+  {
+    "hoTen": "Vũ Ngọc Anh",
+    "donVi": "Phòng TM-HC, Bệnh viện Quân y 103",
+    "phong": "606",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A606"
+  },
+  {
+    "hoTen": "Vũ Ngọc Văn",
+    "donVi": "Phòng KH Công ty 705",
+    "phong": "606",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A606"
+  },
+  {
+    "hoTen": "Trần Hán Sơ",
+    "donVi": "Phòng Tham mưu, BCTT",
+    "phong": "607",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A607"
+  },
+  {
+    "hoTen": "Phan Viết Hai",
+    "donVi": "Sư đoàn 9",
+    "phong": "607",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A607"
+  },
+  {
+    "hoTen": "Ngô Hữu Đức",
+    "donVi": "Văn phòng Quân khu 7",
+    "phong": "607",
+    "toaNha": "Tòa A",
+    "tang": 6,
+    "maPhong": "A607"
+  }
+]
